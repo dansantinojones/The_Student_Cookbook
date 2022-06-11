@@ -1,28 +1,40 @@
+@import url(https://fonts.googleapis.com/css2?family=Anton&family=Lato:wght@300&family=Oswald:wght@300&display=swap);
+
 html, body {
     width: 100%;
     height: 100%;
+    font-family: Lato, sans-serif;
   }
   
   h1 {
     text-align: center;
     font-style: bold;
     text-transform: uppercase;
+    font-family: Anton, Oswald;
+    letter-spacing: 3px;
+    color: #252525;
+    font-size: 300%;
   }
-  
-  #open-para {
-    text-align: center;
-  }
-  
+
   h2 {
     text-align: center;
     font-style: bold;
     text-transform: uppercase;
     font-size: xx-large;
+    font-family: Anton;
+    letter-spacing: 3px;
+    color: #252525;
+    margin: 0;
+    padding: 0;
+    font-size: 200%;
   }
 
   h4 {
       text-align: center;
       color: grey;
+      margin: 0;
+      padding: 0;
+      font-size: 100%;
   }
   
   form {
