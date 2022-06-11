@@ -1,5 +1,11 @@
 @import url(https://fonts.googleapis.com/css2?family=Anton&family=Lato:wght@300&family=Oswald:wght@300&display=swap);
 
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
 html, body {
     width: 100%;
     height: 100%;
@@ -14,6 +20,7 @@ html, body {
     letter-spacing: 3px;
     color: #252525;
     font-size: 300%;
+    font-weight: 100;
   }
 
   h2 {
@@ -27,6 +34,7 @@ html, body {
     margin: 0;
     padding: 0;
     font-size: 200%;
+    font-weight: 100;
   }
 
   h4 {
@@ -35,23 +43,48 @@ html, body {
       margin: 0;
       padding: 0;
       font-size: 100%;
+      text-transform: uppercase;
   }
   
   form {
     text-align: center;
   }
   
-  nav {
+#menu li {
+    text-transform: uppercase;
+    text-decoration: none;
+    list-style-type: none;
+    float: right;
+}
+
+#menu a {
+  text-decoration: none;
+  color: inherit;
+  margin: 8px;
+}
+
+#menu a:hover {
+  border-bottom: 1px solid #252525;
+}
+
+#category li {
+    text-transform: uppercase;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 30px;
     text-align: center;
-  }
-  
-  ul {
-    width: 40%;
-  }
-  
-  ol {
-    width: 40%;
-  }
+    
+}
+
+#category a {
+  text-decoration: none;
+  color: inherit;
+  margin: 8px;
+}
+
+#category a:hover {
+  border-bottom: 1px solid #252525;
+}
 
   img {
       text-align: center;
