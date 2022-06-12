@@ -97,3 +97,78 @@ html, body {
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
   }
+
+  #zcs-cover-text {
+    font-size: 100%;
+    font-family: Lato, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    width: 150px;
+    height: 75px;
+    padding-top: 40px;
+    padding-left: 10px;
+    background-color: rgba(243, 210, 80, .7);
+    position: absolute;
+    bottom: 475px;
+    right: 1220px;
+  }
+
+  #wgr-cover-text {
+    font-size: 100%;
+    font-family: Lato, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    width: 150px;
+    height: 75px;
+    padding-top: 40px;
+    padding-left: 10px;
+    background-color: rgba(66, 133, 244, .7);
+    position: absolute;
+    bottom: 475px;
+    right: 990px;
+  }
+
+  #fa-cover-text {
+    font-size: 100%;
+    font-family: Lato, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    width: 150px;
+    height: 75px;
+    padding-top: 40px;
+    padding-left: 10px;
+    background-color: rgba(188, 70, 57, .7);
+    position: absolute;
+    bottom: 475px;
+    right: 760px;
+  }
+
+  #mc-cover-text {
+    font-size: 100%;
+    font-family: Lato, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    width: 150px;
+    height: 75px;
+    padding-top: 40px;
+    padding-left: 10px;
+    background-color: rgba(255, 209, 220, .7);
+    position: absolute;
+    bottom: 475px;
+    right: 530px;
+  }
+
+  #v-cover-text {
+    font-size: 100%;
+    font-family: Lato, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    width: 150px;
+    height: 75px;
+    padding-top: 40px;
+    padding-left: 10px;
+    background-color: rgba(87, 186, 152, .7);
+    position: absolute;
+    bottom: 475px;
+    right: 300px;
+  }
