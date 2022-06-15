@@ -189,3 +189,9 @@ footer {
   padding-top: 20px;
   letter-spacing: 3px;
 }
+
+footer i {
+  color: #252525;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
