@@ -34,7 +34,7 @@ html, body {
     letter-spacing: 3px;
     color: #fff;
     margin: 0;
-    padding: 0;
+    padding-top: 20px;
     font-size: 200%;
     font-weight: 100;
   }
@@ -43,9 +43,14 @@ html, body {
       text-align: center;
       color: grey;
       margin: 0;
-      padding: 0;
-      font-size: 100%;
+      padding-bottom: 20px;
+      font-size: 18px;
       text-transform: uppercase;
+      letter-spacing: 3px;
+  }
+
+  h4 i {
+    font-size: 20px;
   }
   
   form {
