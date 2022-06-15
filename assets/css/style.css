@@ -98,6 +98,7 @@ html, body {
     height: 600px;
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
+    background-size: cover;
   }
 
   #zcs-cover-text {
@@ -174,3 +175,12 @@ html, body {
     bottom: 475px;
     right: 300px;
   }
+
+footer {
+  text-align: center;
+  background-color: #fff;
+  color: #252525;
+  height: 75px;
+  padding-top: 20px;
+  letter-spacing: 3px;
+}
