@@ -152,7 +152,7 @@ html, body {
 #win-a-hamper {
   padding: 4% 0px;
   margin: auto;
-  max-width: 576px;
+  max-width: 575px;
   }
 
 .text-input {
@@ -172,14 +172,15 @@ html, body {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #fff;
+    background-color: #83b8b5;
     color: #252525;
     display: block;
 }
 
 .button:hover {
   background-color: #252525;
-  color: #fff;
+  color: #83b8b5;
+  border: 1px solid #83b8b5;
 }
 
 footer {
