@@ -122,24 +122,6 @@ html, body {
     padding-top: 300px;
   }
 
-footer {
-  background-color: #fff;
-  color: #252525;
-  height: 100px;
-  padding-top: 20px;
-  letter-spacing: 3px;
-}
-
-footer i {
-  color: #252525;
-  font-size: 20px;
-  padding-bottom: 10px;
-}
-
-.footer-center {
-  text-align: center;
-}
-
 .contact-details-right {
   color: #252525;
   float: right;
@@ -165,4 +147,55 @@ footer i {
   width: 40%;
   float: right;
   padding-top: 40px;
+}
+
+#win-a-hamper {
+  float: right;
+  padding: 0 500px 100px 0;
+}
+
+.text-input {
+  color: #252525;
+  width: 100%;
+  height: 25px;
+  margin: 5px 0 5px 0;
+  border: 1px solid #252525;
+  border-radius: 2px;
+  display: block;
+}
+
+.button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding-bottom: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #fff;
+    color: #252525;
+    display: block;
+}
+
+.button:hover {
+  background-color: #252525;
+  color: #fff;
+}
+
+footer {
+  background-color: #fff;
+  color: #252525;
+  height: 100px;
+  padding-top: 20px;
+  letter-spacing: 3px;
+  bottom: 0;
+}
+
+footer i {
+  color: #252525;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.footer-center {
+  text-align: center;
 }
