@@ -150,9 +150,10 @@ html, body {
 }
 
 #win-a-hamper {
-  float: right;
-  padding: 0 500px 100px 0;
-}
+  padding: 4% 0px;
+  margin: auto;
+  max-width: 576px;
+  }
 
 .text-input {
   color: #252525;
