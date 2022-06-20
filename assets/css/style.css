@@ -220,3 +220,25 @@ footer i {
   padding-top: 20px;
   letter-spacing: 30px;
 }
+
+.ingredients {
+  float: left;
+  width: 50%;
+  box-sizing: border-box;
+  padding-left: 250px;
+  font-size: 15px;
+  letter-spacing: 3px;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+.directions {
+  width: 50%;
+  float: left;
+  box-sizing: border-box;
+  font-size: 15px;
+  letter-spacing: 3px;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  padding-right: 50px;
+}
