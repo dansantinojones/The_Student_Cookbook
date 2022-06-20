@@ -136,20 +136,6 @@ html, body {
     padding-top: 300px;
   }
 
-.contact-details-right {
-  color: #252525;
-  float: right;
-  background-color: #fff;
-  padding-right: 10px;
-}
-
-.contact-details-left {
-  color: #252525;
-  float: left;
-  background-color: #fff;
-  padding-left: 10px;
-}
-
 #about-us {
   background: url('../images/pop-art-cooking.jpg') no-repeat center center;
   width: 100%;
@@ -214,4 +200,23 @@ footer i {
 
 .footer-center {
   text-align: center;
+}
+
+.footer-center > a {
+  text-align: right;
+  color: #252525;
+  letter-spacing: 3px;
+}
+
+.contact-details-right {
+  color: #252525;
+  text-align: right;
+  background-color: #fff;
+  padding-right: 10px;
+}
+
+.social-icons {
+  text-align: center;
+  padding-top: 20px;
+  letter-spacing: 30px;
 }
