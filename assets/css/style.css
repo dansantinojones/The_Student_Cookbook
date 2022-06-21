@@ -143,10 +143,19 @@ html, body {
   background-size: cover;
 }
 
+#about-us-title {
+  padding-left: 1000px;
+  color: #252525;
+}
+
 #about-us-info {
   width: 40%;
   float: right;
-  padding-top: 40px;
+  padding-top: 14px;
+  padding-right: 27px;
+  font-size: 18px;
+  text-align: right;
+  color: #252525;
 }
 
 #win-a-hamper {
