@@ -190,6 +190,7 @@ footer {
   padding-top: 20px;
   letter-spacing: 3px;
   bottom: 0;
+  clear: both;
 }
 
 footer i {
