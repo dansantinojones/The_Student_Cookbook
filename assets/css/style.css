@@ -92,16 +92,16 @@ html, body {
     text-transform: uppercase;
     text-decoration: none;
     list-style-type: none;
-    padding: 30px;
     text-align: center;
-    float: left;
-    
+    letter-spacing: 3px;
 }
 
 #category a {
   text-decoration: none;
   color: inherit;
-  margin: 8px;
+  height: 80vh;
+  border: 2px solid #fafafa;
+  padding-top: 350px;
 }
 
 #category a:hover {
@@ -116,24 +116,31 @@ html, body {
   #hero-image {
     background-image: url('../images/hero-image.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     width: 100%;
     height: 100%;
     overflow: hidden;
   }
   
-  #hero-image a {
+  #hero-image #category a {
     color: #fafafa;
-    background-color: rgba(0, 0, 0, .5);
-    width: 100%;
-    height: 700px;
+    background-color: rgba(0, 0, 0, .6);
+    width: 20%;
     float: left;
-    padding: 30px 0 0 10px;
     text-align: center;
     box-sizing: border-box;
-    font-size: 27px;
-    padding-top: 300px;
+  }
+  
+  
+  .text-input {
+      color: #252525;
+      width: 100%;
+      height: 25px;
+      margin: 5px 0 5px 0;
+      border: 1px solid #252525;
+      border-radius: 2px;
+      display: block;
   }
 
 #about-us {
@@ -145,7 +152,7 @@ html, body {
 
 #about-us-title {
   padding-left: 1000px;
-  color: #252525;
+  color: ;
 }
 
 #about-us-info {
