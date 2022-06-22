@@ -99,7 +99,7 @@ html, body {
 #category a {
   text-decoration: none;
   color: inherit;
-  height: 80vh;
+  height: 100vh;
   border: 2px solid #fafafa;
   padding-top: 350px;
 }
@@ -144,25 +144,22 @@ html, body {
   }
 
 #about-us {
-  background: url('../images/pop-art-cooking.jpg') no-repeat center center;
+  background: url('../images/cutlery.jpg') no-repeat center center;
   width: 100%;
-  height: 600px;
+  height: 100vh;
   background-size: cover;
 }
 
 #about-us-title {
-  padding-left: 1000px;
-  color: ;
+  color: #252525;
+  padding-top: 5%;
 }
 
 #about-us-info {
-  width: 40%;
-  float: right;
-  padding-top: 14px;
-  padding-right: 27px;
   font-size: 18px;
-  text-align: right;
+  text-align: center;
   color: #252525;
+  padding: 3% 5% 10% 5%;
 }
 
 #win-a-hamper {
