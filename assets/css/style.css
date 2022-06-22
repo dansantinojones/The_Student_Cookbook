@@ -38,6 +38,7 @@ html, body {
     padding-top: 20px;
     font-size: 200%;
     font-weight: 100;
+    clear: both;
   }
 
   h3 {
@@ -157,7 +158,7 @@ html, body {
   padding: 3% 5% 10% 5%;
 }
 
-#win-a-hamper {
+#win-a-kitchen-set {
   padding: 4% 0px;
   margin: auto;
   max-width: 575px;
