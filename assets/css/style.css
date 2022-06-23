@@ -100,7 +100,7 @@ html, body {
 #category a {
   text-decoration: none;
   color: inherit;
-  height: 100vh;
+  height: 97vh;
   border: 2px solid #fafafa;
   padding-top: 350px;
 }
@@ -122,11 +122,16 @@ html, body {
   
   #hero-image #category a {
     color: #fafafa;
-    background-color: rgba(0, 0, 0, .6);
+    background-color: rgba(0, 0, 0, .6 );
     width: 20%;
     float: left;
     text-align: center;
     box-sizing: border-box;
+  }
+
+  #hero-image #category a:hover {
+    background-color: rgba(0, 0, 0, .0 );
+    font-size: large;
   }
   
   .text-input {
