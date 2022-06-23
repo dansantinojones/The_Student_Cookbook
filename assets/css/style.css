@@ -67,10 +67,6 @@ html, body {
     font-size: 20px;
   }
   
-  form {
-    text-align: center;
-  }
-  
 #menu li {
     text-transform: uppercase;
     text-decoration: none;
@@ -132,6 +128,21 @@ html, body {
     background-color: rgba(0, 0, 0, .0 );
     font-size: large;
   }
+
+  form {
+    text-align: center;
+  }
+
+  #form-style {
+    background-color: black;
+    padding: 50px;
+    border-radius: 5px;
+  }
+
+  #form-style > h3 {
+    color: #83b8b5;
+    padding: 0 0 15px 0;
+  }
   
   .text-input {
       color: #252525;
@@ -139,9 +150,37 @@ html, body {
       height: 25px;
       margin: 5px 0 5px 0;
       border: 1px solid #252525;
-      border-radius: 2px;
       display: block;
+      padding: 10px;
   }
+
+  #win-a-kitchen-set {
+    padding: 4% 0px;
+    margin: auto;
+    max-width: 575px;
+    }
+  
+    #kitchen-set {
+      border-radius: 5px;
+      padding-bottom: 30px;
+    }
+
+    .button {
+      margin-top: 20px;
+      border-radius: 2px;
+      padding-bottom: 2px;
+      padding: 15px 32px 15px 32px;
+      text-align: center;
+      font-size: 100%;
+      background-color: #83b8b5;
+  }
+  
+  .button:hover {
+    background-color: #252525;
+    color: #83b8b5;
+    border: 1px solid #83b8b5;
+  }
+  
 
 #about-us {
   background: url('../images/cutlery.jpg') no-repeat center center;
@@ -160,40 +199,6 @@ html, body {
   text-align: center;
   color: #252525;
   padding: 3% 5% 10% 5%;
-}
-
-#win-a-kitchen-set {
-  padding: 4% 0px;
-  margin: auto;
-  max-width: 575px;
-  }
-
-.text-input {
-  color: #252525;
-  width: 100%;
-  height: 25px;
-  margin: 5px 0 5px 0;
-  border: 1px solid #252525;
-  border-radius: 2px;
-  display: block;
-}
-
-.button {
-    margin-top: 20px;
-    border-radius: 2px;
-    padding-bottom: 2px;
-    padding: 15px 32px 15px 32px;
-    text-align: center;
-    font-size: 100%;
-    background-color: #83b8b5;
-    color: #252525;
-    display: block;
-}
-
-.button:hover {
-  background-color: #252525;
-  color: #83b8b5;
-  border: 1px solid #83b8b5;
 }
 
 footer {
