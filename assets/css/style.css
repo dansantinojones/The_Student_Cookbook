@@ -109,7 +109,7 @@ img {
 #hero-image {
   background-image: url('../images/hero-image.jpg');
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: center;
   width: 100%;
   height: 100%;
@@ -260,6 +260,37 @@ footer i {
   margin: 10px;
   letter-spacing: 3px;
   line-height: 30px;
+}
+
+@media screen and (max-width: 900px) {
+  #hero-image {
+    background-image: url('../images/hero-image-2.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-size: cover;
+  }
+
+  #hero-image #category a {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    width: 100%;
+    height: 150px;
+    float: left;
+    text-align: center;
+    box-sizing: border-box;
+    clear: both;
+    padding-top: 75px;
+  }
+
+  #hero-image #category a:hover {
+    background-color: rgba(0, 0, 0, .0);
+    font-size: large;
+  }
+  
 }
 
 @media screen and (max-width: 500px) {
