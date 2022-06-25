@@ -261,3 +261,26 @@ footer i {
   letter-spacing: 3px;
   line-height: 30px;
 }
+
+@media screen and (max-width: 500px) {
+  .grid-container {
+    display: grid;
+    grid-template-rows: 50% 50%;
+    grid-template-columns: 100%;
+    padding-bottom: 450px;
+  }
+
+  .ingredients {
+    color: #fafafa;
+    margin: 5px;
+    letter-spacing: 1.5px;
+    line-height: 30px;
+  }
+  
+  .directions {
+    color: #fafafa;
+    margin: 5px;
+    letter-spacing: 1.5px;
+    line-height: 30px;
+  }
+}
