@@ -26,6 +26,17 @@ h1 {
   font-weight: 100;
 }
 
+h1 > a {
+  text-align: center;
+  font-style: bold;
+  text-transform: uppercase;
+  font-family: Oswald, Anton;
+  letter-spacing: 3px;
+  color: #83b8b5;
+  font-weight: 100;
+  text-decoration: none;
+}
+
 h2 {
   text-align: center;
   font-style: bold;
