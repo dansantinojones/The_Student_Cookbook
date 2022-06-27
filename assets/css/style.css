@@ -306,6 +306,24 @@ footer i {
   }
 }
 
+@media screen and (max-width: 585px) {
+  #about-us {
+    background: url('../images/cutlery.jpg') no-repeat center center;
+    width: 100%;
+    height: 150vh;
+    background-size: cover;
+  }
+}
+
+@media screen and (max-width: 311px) {
+  #about-us {
+    background: url('../images/cutlery.jpg') no-repeat center center;
+    width: 100%;
+    height: 200vh;
+    background-size: cover;
+  }
+}
+
 @media screen and (max-width: 500px) {
   .grid-container {
     display: grid;
