@@ -331,6 +331,7 @@ footer i {
     grid-template-columns: 100%;
     padding-bottom: 450px;
   }
+}
 
   .ingredients {
     color: #fafafa;
@@ -345,4 +346,3 @@ footer i {
     letter-spacing: 1.5px;
     line-height: 30px;
   }
-}
