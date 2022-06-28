@@ -118,7 +118,7 @@ img {
 }
 
 #hero-image {
-  background-image: url('../images/hero-image.jpg');
+  background-image: url('../images/hero_image.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -268,7 +268,7 @@ footer i {
 
 @media screen and (max-width: 900px) {
   #hero-image {
-    background-image: url('../images/hero-image-2.jpg');
+    background-image: url('../images/hero_image_2.jpg');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
