@@ -185,6 +185,11 @@ form {
   padding-bottom: 30px;
 }
 
+#terms {
+  text-align: justify;
+  font-size: smaller;
+}
+
 .button {
   margin-top: 20px;
   border-radius: 2px;
