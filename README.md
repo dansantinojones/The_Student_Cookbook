@@ -169,10 +169,15 @@ When running a report on lighthouse in devtools. I discovered the kitchen set im
 HTML
 - No errors were returned when passing through the official W3C validator.
 
+![W3C HTML Validator Results](assets/images/w3c_html.jpg)
+
 CSS
 - 5 errors were found when using the official W3C validator. 
 - The error that amounted for 4 errors was font-style: bold; which I resolved by removing it from the CSS rules. 
 - The last error was background-image: url(‘../images/hero_image_2.jpg) no-repeat centre centre; This was resolved by removing no-repeat centre centre and including background-repeat: no-repeat; and background-position: centre;
+
+![W3C CSS Validator Error](assets/images/w3c_css_error.jpg)
+![W3C CSS Validator Pass](assets/images/w3c_css_pass.jpg)
 
 Accessibility
 -  I confirm the colours and font choose are easy to read and accessible when running lighthouse in devtools.
