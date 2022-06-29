@@ -229,7 +229,9 @@ I followed the steps below to deploy my webpage:
 3. Select 'Settings' in the menu at the top.
 4. Select 'Pages' on the left side menu.
 5. In the scource section, select branch 'Master' and save.
-6. The page will produce your websites URL.
+6. The page will produce your websites URL as seen below.
+
+![Deployment URL](assets/images/url.jpg)
 
 ## Credits 
 ### Code
