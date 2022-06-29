@@ -60,6 +60,8 @@ Please note the website has slightly changed since creating the wireframes.
 ### Surface
 The colour scheme of the website was chosen to provide simplicity. The website must be easy to read therefore these colours were best suited. The logo colour matches with the kitchen set demonstrating the brand identity. The teal colour was chosen to represent cool and calmness which students are looking for when browsing the internet for recipes. 
 
+![Color Contrast Validator Results](assets/images/color_contrast_pass.jpg)
+
 I chose the Oswald font as this was a simple but trendy font which is what the website users are looking for. With a letter spacing and uppercase this provided easy to read information helping achieve the business and customer goals. 
 
 The hover effect was used on the menu and category section to attract the users attention and demonstrate the easy navigation across all pages. 
