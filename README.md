@@ -207,9 +207,19 @@ The Color Contrast Validator detected an error between the 'About Us' heading an
 ### Deployment 
 
 ## Credits 
+### Code
+- General coding queries were answered by [W3School](https://www.w3schools.com/)
+- Assistance with creating grids from [Mimo](https://getmimo.com/)
+
 ### Content
+- The icons used were from [Font Awesome](https://fontawesome.com)
+- The Favicon used was from [Favicon](https://favicon.io)
 
 ### Media 
+- The photos used on the home page are from [Google Images](https://www.google.co.uk/imghp?hl=en&ogbl)
+- The photo used on the about us page are from [Google Images](https://www.google.co.uk/imghp?hl=en&ogbl)
+- The photos used on the form page [Google Images](https://www.google.co.uk/imghp?hl=en&ogbl)
+- The photos used on the recipe pages are from [Google Images](https://www.google.co.uk/imghp?hl=en&ogbl), [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/)
 
 ## Acknowledgments 
 I would like to thank my course mentor Guido Cecilio for his supporters  and guidance throughout the course and former student Sam Laubscher for his feedback and support.
