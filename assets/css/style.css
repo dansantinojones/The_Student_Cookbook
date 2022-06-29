@@ -350,3 +350,22 @@ footer i {
     padding-bottom: 450px;
   }
 }
+
+/* menu meida query */
+
+@media screen and (max-width: 325px) {
+  #menu li {
+    font-size: smaller;
+    text-transform: uppercase;
+    text-decoration: none;
+    list-style-type: none;
+    float: right;
+  }
+  
+  #menu a {
+    font-size: smaller;
+    text-decoration: none;
+    color: inherit;
+    margin: 8px;
+  }
+}
