@@ -1,5 +1,7 @@
 # The Student Cookbook
 
+![Main Image](assets/images/am_i_responsive.jpg)
+
 The Student Cookbook is a UK based website that provides quick, affordable and easy to make recipes for students with a little to no cooking skills. The goal is to be a hub for students to develop their cooking skills during their busy schedules with repeat visits to the website.The landing page will include features such as ‘Category panels’, ‘About Us’ and ‘Win a Kitchen Set!’. There are 5 separate pages with 3 recipes each depending on the users needs. 
 
 The primary goal of the website is to teach students how to cook using basic and easy to follow recipes furthermore repeat visits to the website making The Student Cookbook a hub for learning. The website will allow users to navigate easily through the website and will provide ingredients and directions on how to make affordable meals quickly.  
