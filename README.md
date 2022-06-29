@@ -1,108 +1,150 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# The Student Cookbook
 
-Welcome dansantinojones,
+The Student Cookbook is a UK based website that provides quick, affordable and easy to make recipes for students with a little to no cooking skills. The goal is to be a hub for students to develop their cooking skills during their busy schedules with repeat visits to the website.The landing page will include features such as ‘Category panels’, ‘About Us’ and ‘Win a Kitchen Set!’. There are 5 separate pages with 3 recipes each depending on the users needs. 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+The primary goal of the website is to teach students how to cook using basic and easy to follow recipes furthermore repeat visits to the website making The Student Cookbook a hub for learning. The website will allow users to navigate easily through the website and will provide ingredients and directions on how to make affordable meals quickly.  
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+### Business Goals
+- Teach users basic cooking skills 
+- Provide easy, quick and affordable meals
+- Repeat visits from users
 
-## Gitpod Reminders
+### Customer Goals 
+- Easy to navigate website structure 
+- Easy to follow recipes 
+- Cost, time and how many people the recipe is for
+- Visually appealing 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## UX
+### Strategy 
+Following the core UX principles I firstly decided on the target audience of users and I put myself in their shoes to what features I would want.
 
-`python3 -m http.server`
+#### The Student Cookbook Target Audience:
+- Aged 18-30.
+- Students.
+- People who are learning to cook or people with basic cooking skills.
 
-A blue button should appear to click: _Make Public_,
+#### What the users would want from the website:
+- Informal language. 
+- Easy to follow step by step recipes.
+- Mobile friendly therefore must be responsive.
+- Visually appealing with concise information.
 
-Another blue button should appear to click: _Open Browser_.
+#### This website is best for users:
+- Most cooking websites have formal language and complicated instructions which some students may find difficult to relate to. 
+- Most students have only basic ingredients due to their shopping budget and busy schedules. This website teaches students the basic cooking knowledge without overloading them with ingredients and information.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Scope
+To achieve the strategic goals, I included the following features:
 
-A blue button should appear to click: _Make Public_,
+- Header containing logo and navigation menu.
+- Grid menu displaying different types of recipes.
+- About Us section for users to connect on a personal level.
+- Form for users to win a kitchen set to help them on their cooking journey.
+- Recipe pages with a total of 15 recipes.
+- Icons highlighting key information which is concise and visually appealing. 
+- Footer with contact details and social icons.
 
-Another blue button should appear to click: _Open Browser_.
+### Structure
+Due to the number of recipes a single page website was not suited for this project. However, I decided it was best to have the non-cooking related information on a single page with simple navigation structure. The menu which is consistent across all 6 pages will direct the user to the non-cooking information on the main page. The structure of the main page follows Home > Cooking Category Grid > About Us > Win a Kitchen Set! The first thing the user will see will be the Cooking Category Grid which will direct them to the recipes (the main reason they are visiting the website). Therefore, the non-cooking sections follow. 
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+The recipe pages follow a similar structure, Cooking Category > Name of the dish > Difficulty, Time, Number of people and average cost > Image of the dish > Ingredients > Directions. I moved the order around a few times and digested the information. I decided this sequence was the easiest to follow without providing too much information at once. 
 
-To log into the Heroku toolbelt CLI:
+The footer is consistent on all pages with an arrow pointing up to take the user back to the top of the page. This allows the user to navigate through the website with ease providing a good user experience. 
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### Skeleton 
+Please note the website has slightly changed since creating the wireframes.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+### Surface
+The colour scheme of the website was chosen to provide simplicity. The website must be easy to read therefore these colours were best suited. The logo colour matches with the kitchen set demonstrating the brand identity. The teal colour was chosen to represent cool and calmness which students are looking for when browsing the internet for recipes. 
 
-------
+I chose the Oswald font as this was a simple but trendy font which is what the website users are looking for. With a letter spacing and uppercase this provided easy to read information helping achieve the business and customer goals. 
 
-## Release History
+The hover effect was used on the menu and category section to attract the users attention and demonstrate the easy navigation across all pages. 
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+## Features
+### Navigation Bar 
+All six pages have a fully functioning navigation bar which include links to the Home, About Us and Win a Kitchen Set! pages which is identical on each page to remain consistent.
+This allows users to navigate back to the home page when looking for different category of recipes.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+### Grid Category Panels
+The landing page provides a relatable photo of students having a meal around a table with overlay panels with navigation to different categories of recipes. 
+This section introduces the user to The Student Cookbook and the different options the user has. This is beneficial for users who are ‘Vegetarian’ or have ‘Zero Cooking Skills’ to navigate them to the recipes that are best suited to their needs. 
+The language used for the category titles are informal and playful which will relate to the target audience and hopefully demonstrate the fun side of cooking.
+The opacity hover effect is used to make the landing page visually appealing to encourage repeat visits. The panels change from vertical to horizontal when the max width reaches for a neater and clearer structure on smaller devices.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+### About Us
+The About Us section provides a deeper understanding of the purpose and goals of the website allowing the user to connect on a personal level. 
+The background colour is used for a consistent brand identity. 
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+### Win a FREE Kitchen Set!
+This section will allow users to be entered into a draw to win a free kitchen set. The user will need to provide their personal details such as name, email and telephone number along with the university they are attending. This is the perfect starter kit for students starting university.
+The form includes required name email and telephone to ensure the important information is submitted.
+The terms & conditions were included into a drop down menu for users to expand and read therefore saving space on the page. 
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+### Footer 
+The footer section includes links to relevant social media platforms as well as a telephone and email address if users would like to make contact.
+The social icon link will open in a new tab to provide a better user experience. 
+The footer is identical across all pages providing consistency throughout the website. 
+The footer includes an arrow icon which will direct the user back to the top of the page. This provides good user experience when navigating through the website. 
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+### Recipe Pages
+The recipe pages provide three meals giving the user variety of choice. 
+The images used on the website are for educational purposes only.
+Font Awesome icons are used to provide cons key information which is concise and visually appealing. 
+A grid is used to display the ingredients and directions. This allows the user to digest the information in a clear and concise manner. 
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+### Features left to implement
+I beleive the website has plently of opportunities to delevol and improve in the future. The features I would like to implements going forward are: 
+- More recipes.
+- More cooking categories. 
+- Shopping list table with costs.
+- Random recipe selector.
+- Checkbox bullet points for recipe lists.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+### Technologies Used
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+## Testing 
+I tested that the page work on Chrome and Safari
+I confirmed that the project is responsive having tested screen size using the devtools device toolbar.
+I have tested the links and ensures that all follow the right path for navigation.
+The form has the required input sections and the submission button opens in a new window. 
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+### Solved Bugs 
+When running a report on lighthouse in devtools. I discovered the kitchen set image was hindering the load speed due to its large file. To overcome this I used Optimazilla to reduce the file size improving the load speed ensuring a better user experience. 
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+### Validator Testing 
+HTML
+- No errors were returned when passing through the official W3C validator.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+CSS
+- 5 errors were found when using the official W3C validator. 
+- The error that amounted for 4 errors was font-style: bold; which I resolved by removing it from the CSS rules. 
+- The last error was background-image: url(‘../images/hero_image_2.jpg) no-repeat centre centre; This was resolved by removing no-repeat centre centre and including background-repeat: no-repeat; and background-position: centre;
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+Accessibility
+-  I confirm the colours and font choose are easy to read and accessible when running lighthouse in devtools.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+### Unfixed Bugs
+There are no unfixed bugs as far as I am aware.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+### Deployment 
 
-------
+## Credits 
+### Content
 
-## FAQ about the uptime script
+### Media 
 
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+## Acknowledgments 
+I would like to thank my course mentor Guido Cecilio for his supporters  and guidance throughout the course and former student Sam Laubscher for his feedback and support.
