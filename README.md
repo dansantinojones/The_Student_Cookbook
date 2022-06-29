@@ -103,17 +103,56 @@ I beleive the website has plently of opportunities to delevol and improve in the
 - Checkbox bullet points for recipe lists.
 
 ### Technologies Used
--
--
--
--
--
--
--
--
--
--
--
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- HTML was used as the building block of the projects content and structure.
+
+[CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- CSS was used to style the web content across all pages.
+
+[Google Fonts](https://fonts.google.com)
+- Google Fonts was used to obtain the fonts used in the project. 
+
+[Google Images](https://www.google.co.uk/imghp?hl=en&ogbl)
+- Google Images was used to obtain images for the project which were used for educational purposes only.
+
+[Font Awesome](https://fontawesome.com)
+- Font Awesome was used to oobtain icons used in the recipe and footer pages.
+
+[Google Developer Tools](https://developer.chrome.com/docs/devtools/)
+- Google Developer Tools (devtools) was used to fix errors and test responsivness.
+
+[GitHub](https://github.com)
+- GitHub was used to store the code for the project.
+
+[Git](https://git-scm.com)
+- Git was used for version control to commit and push to GitHub.
+
+[Gitpod](https://www.gitpod.io)
+- Gitpod was used as the development environment.
+
+[Favicon](https://favicon.io)
+- Favicon was used to create a favicon for the website.
+
+[Pexels](https://www.pexels.com/)
+- Pexels was used to obtain images for the recipes.
+
+[Unsplash](https://unsplash.com/)
+- Unsplash was used to obtain images for the recipes.
+
+[Optimizilla](https://imagecompressor.com/)
+- Optimizilla was used to compress image to improve the load speed of the website. 
+
+[Color Contrast Acessibility Validator](https://color.a11y.com)
+- Used this to test the colour contrast of the backgrounds and fonts.
+
+[W3C Markup Validation Service](https://validator.w3.org)
+- W3C Validator was used to validate the HTML code. 
+
+[W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
+- W3C Validator was used to validate the CSS code.
+
+[Am I Responsive](https://ui.dev/amiresponsive)
+- Am I Responsive was used to obtain final images of my website across different device sizes.
 
 ## Testing 
 I tested that the page work on Chrome and Safari
