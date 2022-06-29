@@ -71,7 +71,7 @@ The hover effect was used on the menu and category section to attract the users 
 All six pages have a fully functioning navigation bar which include links to the Home, About Us and Win a Kitchen Set! pages which is identical on each page to remain consistent.
 This allows users to navigate back to the home page when looking for different category of recipes.
 
-`![Logo and Menu](assets/images/header.jpg)
+![Logo and Menu](assets/images/header.jpg)
 
 ### Grid Category Panels
 The landing page provides a relatable photo of students having a meal around a table with overlay panels with navigation to different categories of recipes. 
@@ -113,6 +113,8 @@ The recipe pages provide three meals giving the user variety of choice.
 The images used on the website are for educational purposes only.
 Font Awesome icons are used to provide cons key information which is concise and visually appealing. 
 A grid is used to display the ingredients and directions. This allows the user to digest the information in a clear and concise manner. 
+
+![Recipe Page](assets/images/recipe.jpg)
 
 ### Features left to implement
 I beleive the website has plently of opportunities to delevol and improve in the future. The features I would like to implements going forward are: 
