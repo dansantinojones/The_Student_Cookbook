@@ -69,6 +69,8 @@ The hover effect was used on the menu and category section to attract the users 
 All six pages have a fully functioning navigation bar which include links to the Home, About Us and Win a Kitchen Set! pages which is identical on each page to remain consistent.
 This allows users to navigate back to the home page when looking for different category of recipes.
 
+`![Logo and Menu](assets/images/header.jpg)
+
 ### Grid Category Panels
 The landing page provides a relatable photo of students having a meal around a table with overlay panels with navigation to different categories of recipes. 
 This section introduces the user to The Student Cookbook and the different options the user has. This is beneficial for users who are ‘Vegetarian’ or have ‘Zero Cooking Skills’ to navigate them to the recipes that are best suited to their needs. 
@@ -79,16 +81,23 @@ The opacity hover effect is used to make the landing page visually appealing to 
 The About Us section provides a deeper understanding of the purpose and goals of the website allowing the user to connect on a personal level. 
 The background colour is used for a consistent brand identity. 
 
+![About Us Section](assets/images/about_us.jpg)
+
 ### Win a FREE Kitchen Set!
 This section will allow users to be entered into a draw to win a free kitchen set. The user will need to provide their personal details such as name, email and telephone number along with the university they are attending. This is the perfect starter kit for students starting university.
 The form includes required name email and telephone to ensure the important information is submitted.
 The terms & conditions were included into a drop down menu for users to expand and read therefore saving space on the page. 
+
+![Win a FREE Kitchen Set image](assets/images/form_1.jpg)
+![Win a FREE Kitchen Set form](assets/images/form_2.jpg)
 
 ### Footer 
 The footer section includes links to relevant social media platforms as well as a telephone and email address if users would like to make contact.
 The social icon link will open in a new tab to provide a better user experience. 
 The footer is identical across all pages providing consistency throughout the website. 
 The footer includes an arrow icon which will direct the user back to the top of the page. This provides good user experience when navigating through the website. 
+
+![Footer](assets/images/footer.jpg)
 
 ### Recipe Pages
 The recipe pages provide three meals giving the user variety of choice. 
