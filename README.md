@@ -76,8 +76,15 @@ This allows users to navigate back to the home page when looking for different c
 ### Grid Category Panels
 The landing page provides a relatable photo of students having a meal around a table with overlay panels with navigation to different categories of recipes. 
 This section introduces the user to The Student Cookbook and the different options the user has. This is beneficial for users who are ‘Vegetarian’ or have ‘Zero Cooking Skills’ to navigate them to the recipes that are best suited to their needs. 
+
+![Category Panel Desktop](assets/images/category_panel_hz.jpg)
+![Category Panel Mobile](assets/images/category_panel_p.jpg)
+
 The language used for the category titles are informal and playful which will relate to the target audience and hopefully demonstrate the fun side of cooking.
 The opacity hover effect is used to make the landing page visually appealing to encourage repeat visits. The panels change from vertical to horizontal when the max width reaches for a neater and clearer structure on smaller devices.
+
+![Category Panel Desktop Hover Effect](assets/images/category_panel_hover_hz.jpg)
+![Category Panel Mobile Hover Effect](assets/images/category_panel_hover_p.jpg)
 
 ### About Us
 The About Us section provides a deeper understanding of the purpose and goals of the website allowing the user to connect on a personal level. 
