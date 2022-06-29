@@ -189,19 +189,24 @@ I beleive the website has plently of opportunities to delevol and improve in the
 ### User Stories
 1. As a first time visitor, I want to easily locate types of recipes.
 - The landing page shows a category grid with types of recipes helping users identify the type of recipe they are looking for. This is useful for users with varying cooking skills and special diets such as vegetarians.
+![Cooking Category Panels](assets/images/category_panel_hz.jpg)
 
 2. As a first time visitor or a repeat visitor, I want concise recipe details.
 - When looking for recipes first thing the user looks at is the image. Secondly, the name of the dish. Thirdly, important cooking details. This can often be the deal-breaker if the user decides to cook the dish. Therefore, the use of Font Awesome icons are used to highlight cost, cooking and prep time, how many people it feeds and the average cost. This information is positioned well above the image and provides important and concise information for users to make an informed decision. 
+![Recipe Details](assets/images/icon_info.jpg)
 
-3. As a first time or repeat visitor, I want the recipes to be basic and easy to follow. 
+3. As a first time or repeat visitor, I want the recipes to be basic and easy to follow ingredients and directions. 
 - The recipes chosen for the online cookbook are made with basic ingredients. Students won’t be buying lots of different ingredients due to their tight budget therefore recipes must contain the essentials. The ingredients and directions are laid out with a grid. For mobile, which most students will be visiting the website on, the gird goes into two rows. When using a larger screen size the grid will form into two columns. Therefore, the information is easy to follow. 
+![Recipe](assets/images/recipe_2.jpg)
 
 4. As a first time visitor, I want to easily navigate through the website and its pages.
 - The heading includes a menu which is consistent on all 6 pages. This always ensures the user is 1 click away from the home page. The user can click the home button on the menu or the main heading. The menu also can navigate the user to the About Us section or Win a FREE Kitchen Set! on the home page. The footer also includes an arrow which when clicked navigates the user to the top of the page. These links were all created with the user experience in mind. 
+![Header and Menu](assets/images/header.jpg)
+![Footer](assets/images/footer.jpg)
 
 5. As a first time or repeat visitor, I want to get in contact or follow the social platforms for more content.
 - Social media icons are positioned in the footer of the page and mobile and email icons for customers to get in contact
-
+![Footer](assets/images/footer.jpg)
 
 
 ### Testing
