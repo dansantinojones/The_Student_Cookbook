@@ -2,7 +2,7 @@
 
 ![Main Image](assets/images/am_i_responsive.jpg)
 
-The Student Cookbook is a UK based website that provides quick, affordable and easy to make recipes for students with a little to no cooking skills. The goal is to be a hub for students to develop their cooking skills during their busy schedules with repeat visits to the website.The landing page will include features such as ‘Category panels’, ‘About Us’ and ‘Win a Kitchen Set!’. There are 5 separate pages with 3 recipes each depending on the users needs. 
+The Student Cookbook is a UK based website that provides quick, affordable and easy to make recipes for students with a little to no cooking skills. The goal is to be a hub for students to develop their cooking skills during their busy schedules with repeat visits to the website. The landing page will include features such as ‘Cooking Category Panels’, ‘About Us’ and ‘Win a FREE Kitchen Set!’. There are 5 additional pages with 3 recipes on each page depending on the users cooking needs and skills. 
 
 The primary goal of the website is to teach students how to cook using basic and easy to follow recipes furthermore repeat visits to the website making The Student Cookbook a hub for learning. The website will allow users to navigate easily through the website and will provide ingredients and directions on how to make affordable meals quickly.  
 
@@ -10,6 +10,7 @@ The primary goal of the website is to teach students how to cook using basic and
 - Teach users basic cooking skills 
 - Provide easy, quick and affordable meals
 - Repeat visits from users
+- Convey key details clearly
 
 ### Customer Goals 
 - Easy to navigate website structure 
@@ -43,13 +44,13 @@ To achieve the strategic goals, I included the following features:
 - Header containing logo and navigation menu.
 - Grid menu displaying different types of recipes.
 - About Us section for users to connect on a personal level.
-- Form for users to win a kitchen set to help them on their cooking journey.
+- Form for users to win a free kitchen set to help them on their cooking journey.
 - Recipe pages with a total of 15 recipes.
 - Icons highlighting key information which is concise and visually appealing. 
 - Footer with contact details and social icons.
 
 ### Structure
-I decided to abbreviate the file names as some page names are long, therefore the files are easier to navigate and follow. Due to the number of recipes a single page website was not suited for this project. However, I decided it was best to have the non-cooking related information on a single page with simple navigation structure. The menu which is consistent across all 6 pages will direct the user to the non-cooking information on the main page. The structure of the main page follows Home > Cooking Category Grid > About Us > Win a Kitchen Set! The first thing the user will see will be the Cooking Category Grid which will direct them to the recipes (the main reason they are visiting the website). Therefore, the non-cooking sections follow. 
+I decided to abbreviate the file names as some page names are long, therefore the files are easier to navigate and follow. Due to the number of recipes a single page website was not suited for this project. However, I decided it was best to have the non-cooking related information on a single page with simple navigation structure. The menu which is consistent across all 6 pages will direct the user to the non-cooking information on the main page. The structure of the main page follows Home > Cooking Category Grid > About Us > Win a FREE Kitchen Set! The first thing the user will see will be the Cooking Category Grid which will direct them to the recipes (the main reason they are visiting the website). Therefore, the non-cooking sections follow. 
 
 The recipe pages follow a similar structure, Cooking Category > Name of the dish > Difficulty, Time, Number of people and average cost > Image of the dish > Ingredients > Directions. I moved the order around a few times and digested the information. I decided this sequence was the easiest to follow without providing too much information at once. 
 
@@ -68,7 +69,7 @@ The colour scheme of the website was chosen to provide simplicity. The website m
 
 ![Color Contrast Validator Results](assets/images/color_contrast_pass.jpg)
 
-I chose the Oswald font as this was a simple but trendy font which is what the website users are looking for. With a letter spacing and uppercase this provided easy to read information helping achieve the business and customer goals. 
+I chose the fonts Oswald for the headings and Lato for the text as this was a simple but trendy font which is what the website users are looking for. With a letter spacing and uppercase this provided easy to read information helping achieve the business and customer goals. Anton and sans-serif fonts were used as back ups. 
 
 The hover effect was used on the menu and category section to attract the users attention and demonstrate the easy navigation across all pages. 
 
@@ -87,7 +88,7 @@ This section introduces the user to The Student Cookbook and the different optio
 ![Category Panel Mobile](assets/images/category_panel_p.jpg)
 
 The language used for the category titles are informal and playful which will relate to the target audience and hopefully demonstrate the fun side of cooking.
-The opacity hover effect is used to make the landing page visually appealing to encourage repeat visits. The panels change from vertical to horizontal when the max width reaches for a neater and clearer structure on smaller devices.
+The opacity hover effect is used to make the landing page visually appealing to encourage repeat visits. The panels change from vertical to horizontal when the max width reaches 900px for a neater and clearer structure on smaller devices.
 
 ![Category Panel Desktop Hover Effect](assets/images/category_panel_hover_hz.jpg)
 ![Category Panel Mobile Hover Effect](assets/images/category_panel_hover_p.jpg)
@@ -117,13 +118,13 @@ The footer includes an arrow icon which will direct the user back to the top of 
 ### Recipe Pages
 The recipe pages provide three meals giving the user variety of choice. 
 The images used on the website are for educational purposes only.
-Font Awesome icons are used to provide cons key information which is concise and visually appealing. 
+Font Awesome icons are used to provide key information which is concise and visually appealing. 
 A grid is used to display the ingredients and directions. This allows the user to digest the information in a clear and concise manner. 
 
 ![Recipe Page](assets/images/recipe.jpg)
 
 ### Features left to implement
-I beleive the website has plently of opportunities to delevol and improve in the future. The features I would like to implements going forward are: 
+I believe the website has plently of opportunities to develop and improve in the future. The features I would like to implement going forward are: 
 - More recipes.
 - More cooking categories. 
 - Shopping list table with costs.
@@ -210,13 +211,13 @@ I beleive the website has plently of opportunities to delevol and improve in the
 
 
 ### Testing
-I tested that the page work on Chrome and Safari
-I confirmed that the project is responsive having tested screen size using the devtools device toolbar.
+I tested to ensure the page work on Chrome, Mozilla and Safari.
+I confirmed the project is responsive having tested screen size using the devtools device toolbar.
 I have tested the links and ensures that all follow the right path for navigation.
 The form has the required input sections and the submission button opens in a new window. 
 
 ### Solved Bugs 
-When running a report on lighthouse in devtools. I discovered the kitchen set image was hindering the load speed due to its large file. To overcome this I used Optimazilla to reduce the file size improving the load speed ensuring a better user experience. 
+When running a report on lighthouse in devtools, I discovered the kitchen set image was hindering the load speed due to its large file. To overcome this I used Optimazilla to reduce the file size improving the load speed ensuring a better user experience. 
 
 ### Validator Testing 
 HTML
@@ -226,7 +227,7 @@ HTML
 
 CSS
 - 5 errors were found when using the official W3C validator. 
-- The error that amounted for 4 errors was font-style: bold; which I resolved by removing it from the CSS rules. 
+- The error that amounted to 4 errors was font-style: bold; which I resolved by removing it from the CSS rules. 
 - The last error was background-image: url(‘../images/hero_image_2.jpg) no-repeat centre centre; This was resolved by removing no-repeat centre centre and including background-repeat: no-repeat; and background-position: centre;
 
 ![W3C CSS Validator Error](assets/images/w3c_css_error.jpg)
@@ -242,7 +243,7 @@ Desktop:
 ![Desktop Lighthouse Testing](/assets/images/lighthouse_desktop.jpg)
 
 ### Unfixed Bugs
-The Color Contrast Validator detected an error between the 'About Us' heading and the background colour as they are the same #252525. However, the 'About Us' heading is above the background image which is #83b8b5 the contrast passes the validator test as seen in the 'Structure' section. 
+The Color Contrast Validator detected an error between the 'About Us' heading and the background colour as they are the same #252525. However, the 'About Us' heading is above the background image which is the colour #83b8b5 the contrast passes the validator test as seen in the 'Structure' section. 
 
 ![Color Contrast Validator Error](assets/images/color_contrast_error.jpg)
 
