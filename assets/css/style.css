@@ -118,7 +118,7 @@ img {
 #category a {
   text-decoration: none;
   color: inherit;
-  height: 97vh;
+  height: 100vh;
   border: 2px solid #fafafa;
   padding-top: 350px;
 }
@@ -340,6 +340,8 @@ footer i {
     background-size: cover;
   }
 }
+
+/* ingredients and directions */
 
 @media screen and (max-width: 500px) {
   .grid-container {
