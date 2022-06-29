@@ -177,6 +177,12 @@ CSS
 Accessibility
 -  I confirm the colours and font choose are easy to read and accessible when running lighthouse in devtools.
 
+Mobile:
+![Mobile Lighthouse Testing](/assets/images/lighthouse_mobile.jpg)
+
+Desktop:
+![Desktop Lighthouse Testing](/assets/images/lighthouse_desktop.jpg)
+
 ### Unfixed Bugs
 There are no unfixed bugs as far as I am aware.
 
