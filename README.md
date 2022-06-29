@@ -221,7 +221,7 @@ When running a report on lighthouse in devtools, I discovered the kitchen set im
 
 ### Validator Testing 
 HTML
-- No errors were returned when passing through the official W3C validator.
+- All 6 HTML documents were tested and no errors were returned when passing through the official W3C validator.
 
 ![W3C HTML Validator Results](assets/images/w3c_html.jpg)
 
