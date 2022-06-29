@@ -200,7 +200,9 @@ Desktop:
 ![Desktop Lighthouse Testing](/assets/images/lighthouse_desktop.jpg)
 
 ### Unfixed Bugs
-There are no unfixed bugs as far as I am aware.
+The Color Contrast Validator detected an error between the 'About Us' heading and the background colour as they are the same #252525. However, the 'About Us' heading is above the background image which is #83b8b5 the contrast passes the validator test as seen in the 'Structure' section. 
+
+![Color Contrast Validator Error](assets/images/color_contrast_error.jpg)
 
 ### Deployment 
 
