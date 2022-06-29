@@ -320,6 +320,13 @@ footer i {
     height: 100vh;
     background-size: cover;
   }
+
+  #about-us-info {
+    font-size: 85%;
+    text-align: center;
+    color: #252525;
+    padding: 3% 5% 15% 5%;
+  }
 }
   
 
