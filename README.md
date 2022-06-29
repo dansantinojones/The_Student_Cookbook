@@ -55,7 +55,12 @@ The recipe pages follow a similar structure, Cooking Category > Name of the dish
 The footer is consistent on all pages with an arrow pointing up to take the user back to the top of the page. This allows the user to navigate through the website with ease providing a good user experience. 
 
 ### Skeleton 
-Please note the website has slightly changed since creating the wireframes.
+I created wifreframes using [Balsamiq](https://balsamiq.com/wireframes/?gclid=EAIaIQobChMIuNzaq8XT-AIVc2HmCh3rLgcnEAAYAiAAEgIF0PD_BwE). Please note the website has slightly changed since creating the wireframes.
+
+![Home Wireframe](assets/images/wf_home.jpg)
+![About Us Wireframe](assets/images/wf_about_us.jpg)
+![Form Wireframe](assets/images/wf_form.jpg)
+![Recipe Wireframe](assets/images/wf_recipe.jpg)
 
 ### Surface
 The colour scheme of the website was chosen to provide simplicity. The website must be easy to read therefore these colours were best suited. The logo colour matches with the kitchen set demonstrating the brand identity. The teal colour was chosen to represent cool and calmness which students are looking for when browsing the internet for recipes. 
