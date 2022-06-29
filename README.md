@@ -95,7 +95,7 @@ The terms & conditions were included into a drop down menu for users to expand a
 
 ### Footer 
 The footer section includes links to relevant social media platforms as well as a telephone and email address if users would like to make contact.
-The social icon link will open in a new tab to provide a better user experience. 
+The social icon link will open in a new tab to provide a better user experience. These icons will link the user to the main pages as The Student Cookbook does not have the relevant social media platforms currently. Therefore, these are currently examples.
 The footer is identical across all pages providing consistency throughout the website. 
 The footer includes an arrow icon which will direct the user back to the top of the page. This provides good user experience when navigating through the website. 
 
@@ -205,6 +205,14 @@ The Color Contrast Validator detected an error between the 'About Us' heading an
 ![Color Contrast Validator Error](assets/images/color_contrast_error.jpg)
 
 ### Deployment 
+I followed the steps below to deploy my webpage:
+
+1. Log into GitHub.
+2. Select project repository you want to deploy.
+3. Select 'Settings' in the menu at the top.
+4. Select 'Pages' on the left side menu.
+5. In the scource section, select branch 'Master' and save.
+6. The page will produce your websites URL.
 
 ## Credits 
 ### Code
